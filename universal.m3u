@@ -1,0 +1,222 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
+#EXTINF:-1 ,CCTV2
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
+#EXTINF:-1 ,CCTV3
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
+#EXTINF:-1 ,CCTV4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
+#EXTINF:-1 ,CCTV5
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+#EXTINF:-1 ,CCTV6
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
+#EXTINF:-1 ,CCTV7
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
+#EXTINF:-1 ,CCTV8
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
+#EXTINF:-1 ,CCTV9
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
+#EXTINF:-1 ,CCTV10
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
+#EXTINF:-1 ,CCTV11
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
+#EXTINF:-1 ,CCTV12
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
+#EXTINF:-1 ,CCTV13
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+#EXTINF:-1 ,CCTV14
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
+#EXTINF:-1 ,CCTV15
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
+#EXTINF:-1 ,CGTN-新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
+
+#EXTINF:-1 ,世界地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+#EXTINF:-1 ,安徽卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
+#EXTINF:-1 ,兵团卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
+#EXTINF:-1 ,重庆卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
+#EXTINF:-1 ,东方卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
+#EXTINF:-1 ,东南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
+#EXTINF:-1 ,广东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
+#EXTINF:-1 ,广西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
+#EXTINF:-1 ,甘肃卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
+#EXTINF:-1 ,贵州卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
+#EXTINF:-1 ,湖北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
+#EXTINF:-1 ,湖南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
+#EXTINF:-1 ,河北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
+#EXTINF:-1 ,河南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
+#EXTINF:-1 ,黑龙江卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
+#EXTINF:-1 ,江苏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
+#EXTINF:-1 ,江西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
+#EXTINF:-1 ,吉林卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
+#EXTINF:-1 ,辽宁卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
+#EXTINF:-1 ,内蒙古卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
+#EXTINF:-1 ,宁夏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
+#EXTINF:-1 ,青海卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
+#EXTINF:-1 ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,四川卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
+#EXTINF:-1 ,山东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
+#EXTINF:-1 ,山西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
+#EXTINF:-1 ,陕西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
+#EXTINF:-1 ,旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,山东教育
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
+
+
+#EXTINF:-1 ,第一剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+#EXTINF:-1 ,国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 ,怀旧剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+#EXTINF:-1 ,风云剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+#EXTINF:-1 ,风云足球
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+#EXTINF:-1 ,风云音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+#EXTINF:-1 ,世界地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+#EXTINF:-1 ,CHC高清电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+#EXTINF:-1 ,CHC家庭电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+
+#EXTINF:-1 ,凤凰中文
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰资讯
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+#EXTINF:-1 ,上海纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+#EXTINF:-1 ,金鹰纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+#EXTINF:-1 ,全纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+
+
+#EXTINF:-1 ,动漫秀场
+http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 ,劲爆体育
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 ,极速汽车
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 ,极速赛车
+http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,游戏风云
+http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 ,游戏世界
+http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
+#EXTINF:-1 ,都市剧场
+http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 ,东方影视
+http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
+#EXTINF:-1 ,五星体育
+http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 ,NewTV动作电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
+#EXTINF:-1 ,NewTV惊悚悬疑
+http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
+#EXTINF:-1 ,NewTV超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 ,NewTV古装剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 ,NewTV家庭剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 ,NewTV军旅剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 ,NewTV爱情喜剧
+http://39.135.138.60:18890/PLTV/88888910/224/3221225748/index.m3u8
+#EXTINF:-1 ,NewTV军事评论
+http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 ,NewTV炫舞未来
+http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 ,NewTV潮妈辣婆
+http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 ,NewTV农业致富
+http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 ,NewTV健康有约
+http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
+#EXTINF:-1 ,NewTV武博世界
+http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
+#EXTINF:-1 ,NewTV中国功夫
+http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 ,NewTV精品大剧
+http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 ,NewTV精品体育
+http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 ,NewTV精品纪录
+http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1 ,NewTV超级综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 ,NewTV超级体育
+http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 ,NewTV超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 ,NewTV超级电视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
+
+#EXTINF:-1 ,华数_社会真相
+http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
+#EXTINF:-1 ,华数_剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1 ,华数_情感生活
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1 ,华数_公主城堡
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 ,华数_时尚1
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 ,华数_时尚2
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 ,华数_时装1
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8 
